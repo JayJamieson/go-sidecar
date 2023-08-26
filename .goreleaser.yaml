@@ -12,7 +12,7 @@ builds:
       - linux
       - windows
       - darwin
-    main: ./cmd/go-boilerplate
+    main: ./cmd/gosidecar
 
 archives:
   - format: tar.gz

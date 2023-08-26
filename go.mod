@@ -1,4 +1,4 @@
-module github.com/JayJamieson/go-boilerplate
+module github.com/JayJamieson/go-sidecar
 
 go 1.20
 
